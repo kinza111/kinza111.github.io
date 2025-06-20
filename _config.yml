@@ -28,18 +28,18 @@ author:
   bio              : "PhD Student in Genetics, Genomics, and Bioinformatics | University of California, Riverside"
   location         : "California, USA"
   employer         : "University of California, Riverside"
-  uri              : # URL
+  uri              : "https://profiles.ucr.edu/app/home/profile/kfati002"
   email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=lbJnKyUAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-3698-0464"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Kinza-Fatima-3"
   scopus           : # URL
 
   # Repositories and software development
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/kinza-fatima-aba8801a1/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
