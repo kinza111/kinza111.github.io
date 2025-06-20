@@ -22,7 +22,7 @@ repository               : "kinza111/kinza111.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Kinza .jpg"
+  avatar           : "images/Kinza.jpg"
   name             : "Kinza Fatima"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Genetics, Genomics, and Bioinformatics | University of California, Riverside"
