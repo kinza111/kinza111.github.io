@@ -23,11 +23,11 @@ repository               : "kinza111/kinza111.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Kinza Fatima"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Student in Genetics, Genomics, and Bioinformatics | University of California, Riverside"
+  location         : "California, USA"
+  employer         : "University of California, Riverside"
   uri              : # URL
   email            : "none@example.org" 
 
