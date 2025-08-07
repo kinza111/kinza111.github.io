@@ -12,7 +12,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD Student in Genetics, Genomics & Bioinformatics at UC Riverside. 
 footer_text: >
-    © 2025 Kinza Fatima. Built with Jekyll & GitHub Pages using the al-folio theme.
+  © 2025 Kinza Fatima. Built with Jekyll & GitHub Pages using the al-folio theme.
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
